@@ -1,4 +1,4 @@
-#Open Data Battle
+# Open Data Battle
 
 Ссылка на соревнование: https://open-data-battle.geecko.com/issues
 
