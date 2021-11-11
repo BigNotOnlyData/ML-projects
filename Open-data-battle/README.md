@@ -1,3 +1,5 @@
+#Open Data Battle
+
 Ссылка на соревнование: https://open-data-battle.geecko.com/issues
 
 Дата проведения: октябрь 2021 г.
